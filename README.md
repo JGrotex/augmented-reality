@@ -10,7 +10,7 @@ Short Intro Video on YouTube here: https://www.youtube.com/watch?v=MMWO99B3XV0
 
 ### Overview
 This Prove of Concepts uses TIBCO Cloud Integrations Services and the TIBCO Mashery API Gateway to secure the communication between der Device and Unity showing the Augmented Reality Device Status Details.
-First Version was using just a Public TIBCO Cloud Integration Flogo Service, and showed the following properties in Unity:
+First Version was using just a Public TIBCO Cloud Integration Flogo Service, and showed the following properties in Unity 3D:
 
 ![TIBCO Unity Props](images/TIBCO-TCI-Unity-Properties.png?raw=true "TCI Unity Properties")
 
@@ -23,4 +23,3 @@ following techniques used to implement this Scenario:
 
 ### Sample Code Fragments
 working Unity C# Sourcecode Fragments will be added here soon.
-
