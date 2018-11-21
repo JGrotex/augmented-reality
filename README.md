@@ -9,7 +9,7 @@ This augmented reality Demo shows the detection of a Device or Machine area.  Th
 Short Intro Video on YouTube here: https://www.youtube.com/watch?v=MMWO99B3XV0
 
 _Consider as well the detected of other Images e.g. a transformer on a bigger facility, or pump next to engine._
-_at least Something need to make the Image unique, by in AR so called Images Features._ 
+_At least something need to make the Image unique, by in AR so called Images Features._ 
 
 ### Overview
 This Prove of Concepts uses TIBCO Cloud Integrations Services and the TIBCO Mashery API Gateway to secure the communication between der Device and Unity showing the Augmented Reality Device Status Details.
