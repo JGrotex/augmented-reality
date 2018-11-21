@@ -23,3 +23,10 @@ following techniques used to implement this Scenario:
 
 ### Sample Code Fragments
 working Unity C# Sourcecode Fragments will be added here soon.
+
+### TIBCO Benefits
+Sure something like this can be created using other techniques, but TIBCO brings the following main benefits into the whole Solution:
+- globally available Cloud Platform for Operation (TIBCO Cloud)
+- graphical Service Design and Implemenation (TIBCO Flogo)
+- secure, scalable and robust API Gateway (TIBCO Mashery)
+and this is to mention only some.
