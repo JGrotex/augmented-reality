@@ -25,7 +25,10 @@ following techniques used to implement this Scenario:
 - Android SDK
 
 ### Sample Code Fragments
-working Unity C# Sourcecode Fragments will be added here soon.
+working Unity 3D C# Sourcecode Fragments will be added here soon.
+1.) The first Sample shows how to connect from Unity to a public TIBCO Cloud Integration Flogo Service.
+2.) The second Sample connects to a secure TIBCO Mashery API using a Developer specific API Key.
+This Area is still work in progress to make these things easily reusable.
 
 ### TIBCO Benefits
 Sure something like this can be created using other techniques, but TIBCO brings the following main benefits into the whole Solution:
