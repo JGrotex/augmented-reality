@@ -31,6 +31,11 @@ working Unity 3D C# Sourcecode Fragments will be added here soon.
 
 _This Area is still work in progress to make these things easily reusable._
 
+### Unity Prefabs
+used AR Flogo Device Status Object Prefab
+
+![Flogo Prefab](images/Flogo-Device-Status.png?raw=true "Flogo Device Status Object Prefab")
+
 ### TIBCO Benefits
 Sure something like this can be created using other techniques, but TIBCO brings the following main benefits into the whole Solution:
 - globally available Cloud Platform for Operation (TIBCO Cloud)
