@@ -3,7 +3,6 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Networking;
-using UnityEngine.SceneManagement;
 
 public class TCIFlogoDeviceStatusUpdate : MonoBehaviour {
     
