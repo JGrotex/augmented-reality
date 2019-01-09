@@ -42,3 +42,7 @@ Sure something like this can be created using other techniques, but TIBCO brings
 - graphical Service Design and Implemenation (TIBCO Flogo)
 - secure, scalable and robust API Gateway (TIBCO Mashery)
 and this is to mention only some.
+
+<hr>
+
+< back to [Main AR page](https://jgrotex.github.io/augmented-reality/)
