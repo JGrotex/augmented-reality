@@ -9,3 +9,11 @@ a sample of using AR to make a Device Status visible
 ## GO Mirror
 Home Smart-Mirror Project using some IoT TIBCO Flogo for Status updates 
 [Details here ...](GOMirror/README.md)
+
+<br><br>
+
+## more to come ...
+> this is just the start of Public Projects.<br>
+> There are already a lot of more usecases in the back pocket.<br>
+> <br>
+> please stay tuned, and revisit the Site later this year ...
