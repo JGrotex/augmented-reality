@@ -12,6 +12,6 @@ Home Smart-Mirror Project using some IoT TIBCO Flogo for Status updates
 
 ## Note
 > this is just the start of Public Projects.
-> There are already a lot of more usecase in the pocket.
+> There are already a lot of more usecases in the back pocket.
 >
 > please stay tuned, and revisit the Site later this year ...
