@@ -32,3 +32,7 @@ With this simple Technology in place, you can e.g.
 <br><br>
 
 > One benefit of having the Mirror running a Unity3D Application is the multiplatform Support, so you can run the mirror with Winodows, Linux, android, etc. Next you can create easlily and quick very great 3D Animations to attract people in front of the mirror.
+
+<hr>
+
+< back to [Main AR page](https://jgrotex.github.io/augmented-reality/)
