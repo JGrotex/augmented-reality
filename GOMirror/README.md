@@ -1,5 +1,6 @@
 # GO Mirror
-Home Smart-Mirror Project using some IoT [TIBCO Flogo.io](http://www.flogo.io/) for real time Status updates.
+Home Smart-Mirror Project using some IoT [TIBCO Flogo.io](http://www.flogo.io/) for real time Status updates.<br>
+Another aspect and option of augmenting our reality.
 
 ![GO Mirror image](../images/goMirror.png?raw=true "GO Mirror")<br>
 > basically this was my Christmas gift, for some between the years development.
