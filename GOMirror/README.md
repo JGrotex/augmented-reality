@@ -2,7 +2,7 @@
 Home Smart-Mirror Project using some IoT [TIBCO Flogo.io](http://www.flogo.io/) for real time Status updates.
 
 ![GO Mirror image](../images/goMirror.png?raw=true "GO Mirror")<br>
-> basically this was my christmas gift, for some between the years development.<br>
+> basically this was my christmas gift, for some between the years development.
 <br>
 Build using Unity3D, TIBCO Flogo for IoT Device Status updates running on RaspberryPi 3+<br>
 Full Unity source in Assets Folder.<br>
