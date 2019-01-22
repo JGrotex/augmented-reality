@@ -5,7 +5,7 @@ Another aspect and option of augmenting our reality.
 ![GO Mirror image](../images/goMirror.png?raw=true "GO Mirror")<br>
 > basically this was my Christmas gift, for some between the years development.
 
-## Implemenation
+## Implementation
 Build using Unity3D, TIBCO Flogo for IoT Device Status updates running on RaspberryPi 3+<br>
 Full Unity source in Assets Folder.<br>
 
