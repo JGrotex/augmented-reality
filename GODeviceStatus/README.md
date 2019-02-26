@@ -25,14 +25,14 @@ following techniques used to implement this Scenario:
 - Android SDK
 
 ### Sample Code Fragments
-working Unity 3D C# [Sourcecode Fragments added here](../Source Fragments/).
+working Unity 3D C# [Sourcecode Fragments added here](https://jgrotex.github.io/augmented-reality/Source-Fragments/).
 1. The first Sample shows how to connect from Unity to a public TIBCO Cloud Integration Flogo Service.
 2. The second Sample connects to a secure TIBCO Mashery API using a Developer specific API Key.
 
 _This Area is still work in progress to make these things easily reusable._
 
 ### Unity Prefabs
-used AR Flogo Device Status Object Prefab
+used AR Flogo Device Status Object [Prefab](https://jgrotex.github.io/augmented-reality/Prefabs/)
 
 ![Flogo Prefab](../images/Flogo-Device-Status.png?raw=true "Flogo Device Status Object Prefab")
 
