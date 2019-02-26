@@ -25,7 +25,7 @@ following techniques used to implement this Scenario:
 - Android SDK
 
 ### Sample Code Fragments
-working Unity 3D C# [Sourcecode Fragments added here](https://jgrotex.github.io/augmented-reality/Source-Fragments/).
+working Unity 3D C# [Sourcecode Fragments added here](https://jgrotex.github.io/augmented-reality/Source%20Fragments/).
 1. The first Sample shows how to connect from Unity to a public TIBCO Cloud Integration Flogo Service.
 2. The second Sample connects to a secure TIBCO Mashery API using a Developer specific API Key.
 
